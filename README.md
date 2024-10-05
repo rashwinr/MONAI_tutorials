@@ -13,5 +13,5 @@ MONAI consists of three frameworks:
 These colab notebook will introduce you to the *MONAI Core*'s design and architecture. 
 
 ## ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) [MONAI data variable and transform](https://github.com/rashwinr/MONAI_tutorials/blob/main/MONAI_data_Transforms.ipynb)
-This colab notebook delves into MONAI's data variable and transforms.
+  This colab notebook delves into MONAI's data variable and transforms.
 
