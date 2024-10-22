@@ -14,7 +14,7 @@ These colab notebook will introduce you to the *MONAI Core*'s design and archite
 
 ## ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) [MONAI data variable and transform](https://github.com/rashwinr/MONAI_tutorials/blob/main/MONAI_data_Transforms.ipynb)
   Colab notebook delves into MONAI's data variable and transforms
-## ![NEW 💥](https://img.shields.io/badge/NEW-💥-red) ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) [MONAI MODEL Zoo](https://github.com/rashwinr/MONAI_tutorials/blob/main/MONAI_Model_Zoo.ipynb)
+## ![NEW 💥](https://img.shields.io/badge/NEW-💥-red) ![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) [MONAI Model Zoo](https://github.com/rashwinr/MONAI_tutorials/blob/main/MONAI_Model_Zoo.ipynb)
   Colab notebook illustrates the MONAI's Model Zoo in a simple classification and segmentation tasks
-## ![NEW 💥](https://img.shields.io/badge/NEW-💥-red) ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) [MONAI DATASETS](https://github.com/rashwinr/MONAI_tutorials/blob/main/MONAI_datasets.ipynb)
+## ![NEW 💥](https://img.shields.io/badge/NEW-💥-red) ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) [MONAI Datasets](https://github.com/rashwinr/MONAI_tutorials/blob/main/MONAI_datasets.ipynb)
   Colab notebook presents different commands useful to retrieve data from open-source venues like: TCIA, decathlon, mednist, medmnist
