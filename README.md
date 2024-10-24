@@ -18,3 +18,4 @@ These colab notebook will introduce you to the *MONAI Core*'s design and archite
   Colab notebook illustrates the MONAI's Model Zoo in a simple classification and segmentation tasks
 ## ![NEW 💥](https://img.shields.io/badge/NEW-💥-red) ![Easy](https://img.shields.io/badge/Difficulty-Easy-green) [MONAI Datasets](https://github.com/rashwinr/MONAI_tutorials/blob/main/MONAI_datasets.ipynb)
   Colab notebook presents different commands useful to retrieve data from open-source venues like: TCIA, decathlon, mednist, medmnist
+## ![NEW 💥](https://img.shields.io/badge/NEW-💥-red) ![Hard](https://img.shields.io/badge/Difficulty-Hard-Red) [MONAI Demo for AI in MIA](https://github.com/rashwinr/MONAI_tutorials/blob/6b599e5865bd1f864664bff2de0cb7ba6d48d577/MONAI_Tutorial_DS261_AIMIA.ipynb)
