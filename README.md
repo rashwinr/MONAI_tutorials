@@ -1,3 +1,5 @@
+![MONAI Tutorials cover image](https://github.com/rashwinr/Tutorials-on-MONAI/blob/main/Aster%20AI%20in%20healthcare.png)
+
 # Tutorials on MONAI
 
 This repository contains a collection of tutorials on MONAI (Medical Open Network for Artificial Intelligence), demonstrating how to use this powerful framework for deep learning in medical imaging.
