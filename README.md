@@ -1,4 +1,4 @@
-![https://github.com/rashwinr/Tutorials-on-MONAI/blob/main/Aster%20AI%20in%20healthcare.png](https://github.com/rashwinr/Tutorials-on-MONAI/blob/main/AI_healthcare_aster_final.png))
+![https://github.com/rashwinr/Tutorials-on-MONAI/blob/main/Aster%20AI%20in%20healthcare.png](https://github.com/rashwinr/Tutorials-on-MONAI/blob/main/AI_healthcare_aster_final.png)
 
 # Tutorials on MONAI
 
