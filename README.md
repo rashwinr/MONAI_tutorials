@@ -22,3 +22,9 @@ These colab notebook will introduce you to the *MONAI Core*'s design and archite
   This Colab notebook presents an introduction to a model, MONAI's network architectures, loss functions, and dataloaders.
 ## ![NEW 💥](https://img.shields.io/badge/NEW-💥-red) ![Hard](https://img.shields.io/badge/Difficulty-Hard-red) [MONAI Demo Complete](https://github.com/rashwinr/MONAI_tutorials/blob/6b599e5865bd1f864664bff2de0cb7ba6d48d577/MONAI_Tutorial_DS261_AIMIA.ipynb)
   This Colab notebook provides materials for the MONAI tutorial given to the DS-261 course in November 2024 at the [Computational and Data Sciences](https://cds.iisc.ac.in/), Indian Institute of Science
+## ![NEW 💥](https://img.shields.io/badge/NEW-💥-red) ![Hard](https://img.shields.io/badge/Difficulty-Hard-red) [MONAI MEDMNIST Classification](https://github.com/rashwinr/Tutorials-on-MONAI/blob/main/MEDMNIST_Pneumonia_Classification.ipynb)
+  This colab notebook delves into utilizing all the MONAI tools to develop classification model for MEDMNIST Pneumonia dataset.
+## ![NEW 💥](https://img.shields.io/badge/NEW-💥-red) ![Hard](https://img.shields.io/badge/Difficulty-Hard-red) [MONAI ICH Classification](https://github.com/rashwinr/Tutorials-on-MONAI/blob/main/RSNA_ICHClassification.ipynb)
+  This colab notebook leverages all the tools learnt from previous colab notebooks to develop a classification model for the ICH Classification dataset. This data used here is part of the RSNA Challenge on ICH Classification.
+  
+  
